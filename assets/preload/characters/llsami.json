@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "cyborg",
+		"player1": "cyborgupo",
+		"player2": "birdie",
+		"player3": null,
+		"events": [
+			[
+				78473.6842105262,
+				[
+					[
+						"Camera Follow Pos",
+						"80",
+						"400"
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "cyborgupo",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "dual"
+	}
+}

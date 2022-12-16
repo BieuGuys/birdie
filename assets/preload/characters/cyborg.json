@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cyborg idle"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cyborg down"
+		},
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cyborg up"
+		},
+		{
+			"offsets": [
+				-40,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cyborg right"
+		},
+		{
+			"offsets": [
+				80,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cyborg left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyborg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cyborg",
+	"flip_x": true,
+	"healthbar_colors": [
+		119,
+		213,
+		234
+	],
+	"camera_position": [
+		80,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

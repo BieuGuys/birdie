@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "birdie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "birdie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "birdie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "birdie right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "birdie idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/birdie",
+	"position": [
+		400,
+		150
+	],
+	"healthicon": "bird",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		219,
+		226
+	],
+	"camera_position": [
+		-210,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
