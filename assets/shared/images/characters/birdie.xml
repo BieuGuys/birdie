@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="birdie.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="birdie down0000" x="0" y="0" width="130" height="149" frameX="-4" frameY="-32" frameWidth="141" frameHeight="181"/>
+	<SubTexture name="birdie down0001" x="130" y="0" width="132" height="148" frameX="-2" frameY="-32" frameWidth="141" frameHeight="181"/>
+	<SubTexture name="birdie down0002" x="262" y="0" width="134" height="148" frameX="0" frameY="-28" frameWidth="141" frameHeight="181"/>
+	<SubTexture name="birdie down0003" x="396" y="0" width="121" height="147" frameX="-15" frameY="-18" frameWidth="141" frameHeight="181"/>
+	<SubTexture name="birdie down0004" x="517" y="0" width="122" height="140" frameX="-19" frameY="0" frameWidth="141" frameHeight="181"/>
+	<SubTexture name="birdie down0005" x="517" y="0" width="122" height="140" frameX="-19" frameY="0" frameWidth="141" frameHeight="181"/>
+	<SubTexture name="birdie idle0000" x="639" y="0" width="116" height="134" frameX="0" frameY="-63" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0001" x="639" y="0" width="116" height="134" frameX="0" frameY="-63" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0002" x="639" y="0" width="116" height="134" frameX="0" frameY="-63" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0003" x="755" y="0" width="116" height="127" frameX="0" frameY="-66" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0004" x="871" y="0" width="116" height="115" frameX="0" frameY="-72" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0005" x="0" y="149" width="123" height="140" frameX="0" frameY="0" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0006" x="123" y="149" width="123" height="135" frameX="0" frameY="-3" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0007" x="123" y="149" width="123" height="135" frameX="0" frameY="-3" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0008" x="123" y="149" width="123" height="135" frameX="0" frameY="-3" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0009" x="123" y="149" width="123" height="135" frameX="0" frameY="-3" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0010" x="123" y="149" width="123" height="135" frameX="0" frameY="-3" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0011" x="123" y="149" width="123" height="135" frameX="0" frameY="-3" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0012" x="246" y="149" width="123" height="126" frameX="0" frameY="-8" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie idle0013" x="369" y="149" width="123" height="122" frameX="0" frameY="-10" frameWidth="123" frameHeight="197"/>
+	<SubTexture name="birdie left0000" x="492" y="149" width="135" height="136" frameX="-1" frameY="0" frameWidth="165" frameHeight="150"/>
+	<SubTexture name="birdie left0001" x="627" y="149" width="136" height="136" frameX="0" frameY="0" frameWidth="165" frameHeight="150"/>
+	<SubTexture name="birdie left0002" x="763" y="149" width="138" height="135" frameX="0" frameY="-1" frameWidth="165" frameHeight="150"/>
+	<SubTexture name="birdie left0003" x="901" y="149" width="119" height="134" frameX="-26" frameY="-4" frameWidth="165" frameHeight="150"/>
+	<SubTexture name="birdie left0004" x="0" y="289" width="116" height="131" frameX="-45" frameY="-11" frameWidth="165" frameHeight="150"/>
+	<SubTexture name="birdie left0005" x="116" y="289" width="117" height="137" frameX="-48" frameY="-13" frameWidth="165" frameHeight="150"/>
+	<SubTexture name="birdie right0000" x="233" y="289" width="143" height="147" frameX="-48" frameY="-7" frameWidth="191" frameHeight="154"/>
+	<SubTexture name="birdie right0001" x="376" y="289" width="144" height="146" frameX="-45" frameY="-7" frameWidth="191" frameHeight="154"/>
+	<SubTexture name="birdie right0002" x="520" y="289" width="144" height="147" frameX="-35" frameY="-5" frameWidth="191" frameHeight="154"/>
+	<SubTexture name="birdie right0003" x="664" y="289" width="122" height="150" frameX="-33" frameY="-1" frameWidth="191" frameHeight="154"/>
+	<SubTexture name="birdie right0004" x="786" y="289" width="119" height="145" frameX="0" frameY="0" frameWidth="191" frameHeight="154"/>
+	<SubTexture name="birdie right0005" x="905" y="289" width="119" height="144" frameX="-1" frameY="0" frameWidth="191" frameHeight="154"/>
+	<SubTexture name="birdie up0000" x="0" y="439" width="128" height="153" frameX="-5" frameY="0" frameWidth="133" frameHeight="162"/>
+	<SubTexture name="birdie up0001" x="128" y="439" width="130" height="153" frameX="-3" frameY="0" frameWidth="133" frameHeight="162"/>
+	<SubTexture name="birdie up0002" x="258" y="439" width="133" height="151" frameX="0" frameY="-3" frameWidth="133" frameHeight="162"/>
+	<SubTexture name="birdie up0003" x="391" y="439" width="116" height="148" frameX="-17" frameY="-9" frameWidth="133" frameHeight="162"/>
+	<SubTexture name="birdie up0004" x="507" y="439" width="116" height="140" frameX="-17" frameY="-22" frameWidth="133" frameHeight="162"/>
+	<SubTexture name="birdie up0005" x="507" y="439" width="116" height="140" frameX="-17" frameY="-22" frameWidth="133" frameHeight="162"/>
+</TextureAtlas>
