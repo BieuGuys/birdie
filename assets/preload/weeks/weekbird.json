@@ -1,0 +1,50 @@
+{
+	"storyName": "guys look! a bird",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"look",
+			"bird",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"pointing",
+			"bird",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"catch-it",
+			"bird",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekbird",
+	"hiddenUntilUnlocked": false
+}
