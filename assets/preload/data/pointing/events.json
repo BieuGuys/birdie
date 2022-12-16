@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "cyborg",
+		"player1": "cyborgupo",
+		"player2": "birdie",
+		"player3": null,
+		"events": [
+			[
+				105333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				106166.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				106333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "robin",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "pointing"
+	}
+}
