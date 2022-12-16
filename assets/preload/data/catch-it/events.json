@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "cyborg",
+		"player1": "cyborgupo",
+		"player2": "birdie",
+		"player3": null,
+		"events": [
+			[
+				77052.6315789473,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				78473.6842105262,
+				[
+					[
+						"Camera Follow Pos",
+						"80",
+						"400"
+					]
+				]
+			],
+			[
+				80763.1578947368,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90947.3684210525,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"400"
+					]
+				]
+			],
+			[
+				101052.631578947,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101526.315789474,
+				[
+					[
+						"Camera Follow Pos",
+						"80",
+						"400"
+					]
+				]
+			],
+			[
+				102078.947368421,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "robin",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "dual"
+	}
+}
