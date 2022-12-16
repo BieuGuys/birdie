@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "cyborg",
+		"player1": "cyborgupo",
+		"player2": "birdie",
+		"player3": null,
+		"events": [
+			[
+				4235.29411764706,
+				[
+					[
+						"Cinematics",
+						"1 ",
+						""
+					]
+				]
+			],
+			[
+				11029.4117647059,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "look"
+	}
+}
